@@ -1,0 +1,7 @@
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\bin\Debug\VirenTask.exe
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\bin\Debug\VirenTask.pdb
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\obj\x86\Debug\VirenTask.Form1.resources
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\obj\x86\Debug\VirenTask.Properties.Resources.resources
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\obj\x86\Debug\VirenTask.csproj.GenerateResource.Cache
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\obj\x86\Debug\VirenTask.exe
+c:\users\mohit\documents\visual studio 2010\Projects\VirenTask\VirenTask\obj\x86\Debug\VirenTask.pdb
